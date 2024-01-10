@@ -3,7 +3,7 @@
 +  [Youtube](https://www.youtube.com/@taehojo)
 +  [정오표](https://taehojo.github.io/book/deeplearning-20231129.pdf) 
 
-------
+------_
 
 `[구글 코랩 실행하기]` 링크를 클릭하면 각 장의 실행 코드로 이동합니다. 
 
